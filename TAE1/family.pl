@@ -24,6 +24,9 @@ parent(susan, anna).
 
 parent(linda, kevin).
 
+% ---------- Marriage Relationships ----------
+married(john, mary).
+married(mike, susan).
 
 % =====================================================
 %               FAMILY RELATIONSHIP RULES
