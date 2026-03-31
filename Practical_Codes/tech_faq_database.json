@@ -1,0 +1,132 @@
+{
+  "General Tech": [
+    {
+      "question": "What is artificial intelligence?",
+      "answer": "AI is a branch of computer science that focuses on creating intelligent machines capable of performing tasks that typically require human intelligence, such as learning, reasoning, and problem-solving.",
+      "category": "General Tech"
+    },
+    {
+      "question": "What is machine learning?",
+      "answer": "Machine learning is a subset of AI where systems learn from data and improve their performance without being explicitly programmed. It uses algorithms to find patterns in data.",
+      "category": "General Tech"
+    },
+    {
+      "question": "What is the difference between AI and ML?",
+      "answer": "AI is the broader field of creating intelligent systems, while ML is a specific approach within AI that focuses on learning from data. All ML is AI, but not all AI is ML.",
+      "category": "General Tech"
+    },
+    {
+      "question": "What is cloud computing?",
+      "answer": "Cloud computing is the delivery of computing services (servers, storage, databases, software) over the internet. It allows on-demand access to shared resources.",
+      "category": "General Tech"
+    }
+  ],
+  "Programming": [
+    {
+      "question": "What is Python?",
+      "answer": "Python is a high-level, interpreted programming language known for its simplicity and readability. It's widely used in web development, data science, and automation.",
+      "category": "Programming"
+    },
+    {
+      "question": "What is object-oriented programming?",
+      "answer": "OOP is a programming paradigm based on objects and classes. It emphasizes modularity, reusability, and encapsulation of data and methods.",
+      "category": "Programming"
+    },
+    {
+      "question": "What is a class in programming?",
+      "answer": "A class is a blueprint for creating objects. It defines attributes (properties) and methods (functions) that objects of that class will have.",
+      "category": "Programming"
+    },
+    {
+      "question": "What is an API?",
+      "answer": "An API (Application Programming Interface) is a set of protocols and tools for building software applications. It defines how software components should communicate.",
+      "category": "Programming"
+    },
+    {
+      "question": "What is Git?",
+      "answer": "Git is a distributed version control system used for tracking changes in code. It allows multiple developers to collaborate on projects.",
+      "category": "Programming"
+    }
+  ],
+  "Web Development": [
+    {
+      "question": "What is HTML?",
+      "answer": "HTML (HyperText Markup Language) is a markup language used to create web pages. It provides the structure and content of web pages.",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is the difference between frontend and backend?",
+      "answer": "Frontend is the user-facing part of a web application (HTML, CSS, JavaScript), while backend is the server-side logic that processes data and manages the database.",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is CSS?",
+      "answer": "CSS (Cascading Style Sheets) is used to style and layout web pages. It controls colors, fonts, spacing, and positioning of HTML elements.",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is JavaScript?",
+      "answer": "JavaScript is a programming language that runs in web browsers. It enables interactive features and dynamic content on web pages.",
+      "category": "Web Development"
+    },
+    {
+      "question": "What is responsive design?",
+      "answer": "Responsive design is a web design approach that makes web pages look good on all devices (desktops, tablets, phones) by using flexible layouts and media queries.",
+      "category": "Web Development"
+    }
+  ],
+  "Data Science": [
+    {
+      "question": "What is data science?",
+      "answer": "Data science is an interdisciplinary field that combines statistics, programming, and domain knowledge to extract insights from data.",
+      "category": "Data Science"
+    },
+    {
+      "question": "What is a dataset?",
+      "answer": "A dataset is a collection of data points or records. It can be in various formats like CSV, JSON, or databases, and is used for analysis and training models.",
+      "category": "Data Science"
+    },
+    {
+      "question": "What is data preprocessing?",
+      "answer": "Data preprocessing involves cleaning and transforming raw data into a format suitable for analysis. It includes handling missing values, removing duplicates, and normalization.",
+      "category": "Data Science"
+    },
+    {
+      "question": "What is overfitting?",
+      "answer": "Overfitting occurs when a model learns the training data too well, including its noise. This causes poor generalization to new, unseen data.",
+      "category": "Data Science"
+    },
+    {
+      "question": "What is a neural network?",
+      "answer": "A neural network is a machine learning model inspired by the human brain. It consists of interconnected nodes (neurons) organized in layers that process information.",
+      "category": "Data Science"
+    },
+    {
+      "question": "What is Deep Learning?",
+      "answer": "**Deep Learning** is a type of **Machine Learning** that uses multi-layered **Artificial Neural Networks** to automatically learn patterns from large amounts of data and make predictions or decisions. 🤖📊",
+      "category": "Data Science"
+    }
+  ],
+  "Cloud & DevOps": [
+    {
+      "question": "What is DevOps?",
+      "answer": "DevOps is a set of practices combining software development and IT operations. It aims for faster deployment, reliability, and better collaboration.",
+      "category": "Cloud & DevOps"
+    },
+    {
+      "question": "What is Docker?",
+      "answer": "Docker is a containerization platform that packages applications with their dependencies into containers. These containers can run consistently across different environments.",
+      "category": "Cloud & DevOps"
+    },
+    {
+      "question": "What is continuous integration?",
+      "answer": "Continuous Integration (CI) is a development practice where code changes are automatically tested and integrated into a shared repository multiple times a day.",
+      "category": "Cloud & DevOps"
+    },
+    {
+      "question": "What is AWS?",
+      "answer": "AWS (Amazon Web Services) is a cloud platform offering various services like computing, storage, databases, and networking on a pay-as-you-go basis.",
+      "category": "Cloud & DevOps"
+    }
+  ]
+}
